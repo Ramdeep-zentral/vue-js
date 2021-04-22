@@ -1,9 +1,9 @@
 <template>
-    <h1>This is {{ username }} page</h1>
+  <h1>This is {{ username }} page</h1>
 </template>
 
 <script>
 export default {
-  props: ["username"]
+  props: ['username'],
 }
 </script>
